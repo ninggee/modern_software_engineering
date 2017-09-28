@@ -1,16 +1,15 @@
-# “CanTool”项目的需求文档
+# CanTool项目的需求文档
 
 
 
-
-> ### CanToolApp Problem 
-
+### CanToolApp Problem  Statment
 
 ---
 
 
 > ###### 设计开发CanToolApp软件，主要用于can数据显示和控制
-> ###### CanToolApp要实现的功能：
+######      CanToolApp要实现的功能：
+
 - 接收CanTool装置的信息
 - 发送信息传给cantool装置，可以指定发送多个can信息和发送周期
 - 解析读取的数据，计算数据的具体物理值
@@ -20,4 +19,7 @@
 - 保存数据，可选格式为XML，JSON
 - 加载保存的数据和信息数据库到GUI
 - 同步数据到远程数据库（通过WebAPI），实现数据共享
+
+
+
 

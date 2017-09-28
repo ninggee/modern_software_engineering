@@ -3,8 +3,8 @@ this is 2nd row. origin text.
 this is 3rd row. origin text.
 this is 4th row. changed text again, by Zhang.
 this is 5th row. origin text.
-this is 6th row. changed text, by Zhang.
+this is 6th row. changed text, by Zhang & lin
 this is 7th row. origin text.
-this is 8th row. changed text.by lin
+this is 8th row. changed by me  text.by lin
 this is 9th row. origin text.
 this is 10th row. origin text.
